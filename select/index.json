@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【Ado】ルル（Sped Up ver.）",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-23T14:56:05.520593Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルル",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_ルル_Ado.txt"
+    }
+  ]
+}
